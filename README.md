@@ -25,14 +25,15 @@ L'objectif de cette mission était de consolider ces différentes sources afin d
 ├── presentation/
 │   └── Presentation_Bottleneck.pdf
 │
+├── README.md
+│
 ├── images/
 │   ├── schema_jointure.jpg
 │   ├── anomalies.jpg
 │   ├── distribution_prix.jpg
 │   ├── rentabilite.jpg
 │   └── plan_action.jpg
-│
-└── README.md
+
 ```
 
 ---
