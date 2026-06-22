@@ -53,14 +53,23 @@ L'objectif de cette mission était de consolider ces différentes sources afin d
 
 ### Construction du jeu de données
 
+![Construction du dataset](images/schema_jointure.jpg)
+
 ### Anomalies détectées
+
+![Anomalies](images/anomalies.jpg)
 
 ### Structure des prix
 
+![Distribution des prix](images/distribution_prix.jpg)
+
 ### Analyse de rentabilité
+
+![Rentabilité](images/rentabilite.jpg)
 
 ### Recommandations
 
+![Plan d'action](images/plan_action.jpg)
 
 ---
 
